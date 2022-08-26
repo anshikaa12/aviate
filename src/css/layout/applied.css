@@ -1,0 +1,22 @@
+.applied-box {
+  width: 60%;
+  padding: 2rem 1rem;
+  gap: 2rem;
+}
+.status-filter {
+  gap: 2rem;
+}
+.tab {
+  font-size: 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--primary-color);
+  cursor: pointer;
+}
+.tab:hover {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+}
+.tab:focus {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+}

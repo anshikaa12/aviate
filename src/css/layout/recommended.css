@@ -1,0 +1,17 @@
+.recommend-box {
+  width: 30%;
+  height: calc(100vh - 19rem);
+  position: sticky;
+  top: 10rem;
+  right: 0rem;
+  align-self: flex-start;
+  padding: 3rem 1rem;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+.recommended-job {
+  padding-top: 2rem;
+  gap: 1rem;
+  
+}
