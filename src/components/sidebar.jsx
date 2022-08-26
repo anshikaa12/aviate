@@ -17,7 +17,7 @@ function Sidebar() {
             <p className="foot-p">Applied</p>
           </Link>
         </li>
-        <Link to="/playlist" className="flex-col-center">
+        <Link to="/" className="flex-col-center">
           <li className="sidebar-item">
             <i className="fas fa-folder-plus"></i>
             <p className="foot-p">Jobs</p>
@@ -41,3 +41,4 @@ function Sidebar() {
 }
 
 export default Sidebar;
+

@@ -4,13 +4,19 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter as Router } from "react-router-dom";
+import { JobProvider } from "./context/appliedJobsContext";
+import { CategoryProvider } from "./context/categoryContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Router>
-      <App />
-    </Router>
+    <CategoryProvider>
+    <JobProvider>
+      <Router>
+        <App />
+      </Router>
+    </JobProvider>
+    </CategoryProvider>
   </React.StrictMode>
 );
 

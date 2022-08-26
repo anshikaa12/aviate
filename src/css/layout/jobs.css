@@ -1,0 +1,9 @@
+.jobs {
+  padding: 3rem 2rem;
+  width: 100%;
+}
+.jobs-list {
+  gap: 2rem;
+  width: 80%;
+  padding-top: 2rem;
+}

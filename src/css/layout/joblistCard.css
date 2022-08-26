@@ -22,3 +22,14 @@
 .joblist {
   gap: 1rem;
 }
+.job-card {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+}
+
+.job-card button {
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+  cursor: pointer;
+}
