@@ -1,0 +1,20 @@
+.single-job-box {
+  padding: 3rem 2rem;
+  width: 60%;
+}
+.job-header {
+  gap: 2rem;
+}
+.single-job-content {
+  padding: 2rem 0;
+  gap: 2rem;
+}
+.job-details {
+  gap: 4rem;
+}
+.job-status {
+  border: 1px solid var(--accent-color);
+  padding: 2rem;
+  border-radius: 4px;
+  gap: 1rem;
+}

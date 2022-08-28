@@ -9,6 +9,11 @@ export const AllJobsList = [
     status: "Accepted",
     pay: "$134k",
     appliedStatus: false,
+    fullDesc:
+      "founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -20,6 +25,11 @@ export const AllJobsList = [
     status: "Rejected",
     pay: "$125k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: "commintting advanced values of WEB3.",
   },
   {
@@ -31,6 +41,11 @@ export const AllJobsList = [
     status: "Pending",
     pay: "$204k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -42,6 +57,11 @@ export const AllJobsList = [
     status: "Accepted",
     pay: "$200k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -53,6 +73,11 @@ export const AllJobsList = [
     status: "Rejected",
     pay: "$400k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -64,6 +89,11 @@ export const AllJobsList = [
     status: "Pending",
     pay: "$134k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -75,6 +105,11 @@ export const AllJobsList = [
     status: "Rejected",
     pay: "$64k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -86,6 +121,11 @@ export const AllJobsList = [
     status: "Accepted",
     pay: "$200k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -97,6 +137,11 @@ export const AllJobsList = [
     status: "Pending",
     pay: "$500k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
   {
@@ -108,6 +153,11 @@ export const AllJobsList = [
     status: "Accepted",
     pay: "$134k",
     appliedStatus: false,
+    fullDesc:
+      "CogniSaaS was founded with this mission – to help enterprise SaaS companies attain data driven execution of customer centricity. We are building a customer-centric platform to empower cross-functional teams (Sales, Customer Success, Professional Services, Product Management, Engineering and QA teams) collaborate on a common 'single source of truth' to deliver value for the customers successfully at scale.",
+    location: "Bangalore",
+    size: "11-15 Employees",
+    mode: "Work from home",
     companyDescription: " enabling customer-centric value delivery enterprise.",
   },
 ];

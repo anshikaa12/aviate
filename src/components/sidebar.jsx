@@ -23,15 +23,15 @@ function Sidebar() {
             <p className="foot-p">Jobs</p>
           </li>
         </Link>
-        <Link to="/likedvideos" className="flex-col-center">
+        <Link to="/messages" className="flex-col-center">
           <li className="sidebar-item">
-            <i class="fas fa-comment"></i>
+            <i className="fas fa-comment"></i>
             <p className="foot-p">Messages</p>
           </li>
         </Link>
-        <Link to="/watchlatervideos" className="flex-col-center">
+        <Link to="/settings" className="flex-col-center">
           <li className="sidebar-item">
-            <i class="fas fa-cog"></i>
+            <i className="fas fa-cog"></i>
             <p className="foot-p">Settings</p>
           </li>
         </Link>

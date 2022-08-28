@@ -15,6 +15,7 @@ function Applied() {
               onClick={() =>
                 categoryDispatch({ type: "CATEGORYTYPE", payload: category })
               }
+              key={category}
             >
               {category}
             </button>

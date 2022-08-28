@@ -5,14 +5,14 @@ function JobsList() {
   const { jobsDispatch } = useJobs();
   return AllJobsList.map((job) => {
     return (
-      <div className="basic-card job-card">
+      <div className="basic-card job-card" key={job.id}>
         <div className="card-header">
           <div className="header-text">
             <div className="flex-row card-head">
               <img
                 alt=".."
                 src={job.companyLogo}
-                class="avatar-box avatar-small"
+                className="avatar-box avatar-small"
               />
               <h4 className="card-title">{job.companyName}</h4>
             </div>

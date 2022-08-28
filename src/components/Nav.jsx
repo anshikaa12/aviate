@@ -12,7 +12,7 @@ function Nav() {
         </div>
 
         <div className="last-nav flex-row-center">
-          <i class="fas fa-bell h4-text prime-color-text"></i>
+          <i className="fas fa-bell h4-text prime-color-text"></i>
           <input
             type="text"
             className="input-md input-box"
@@ -23,7 +23,7 @@ function Nav() {
               <li className="connect-link h6-text flex-col-center">
                 <img
                   src="https://res.cloudinary.com/de5it79dw/image/upload/v1657030678/1834021883_uzohjq.jpg"
-                  class="avatar-circle avatar-mid"
+                  className="avatar-circle avatar-mid"
                   alt="..."
                 />
               </li>

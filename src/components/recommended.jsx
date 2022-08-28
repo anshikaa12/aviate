@@ -12,7 +12,7 @@ function Recommended() {
                 <img
                   alt=".."
                   src="https://res.cloudinary.com/de5it79dw/image/upload/v1661449851/eb7c8808-7c73-405d-a28d-b31a176c55dd-0_zj9jig.png"
-                  class="avatar-box avatar-mid"
+                  className="avatar-box avatar-mid"
                 />
                 <div className="flex-col">
                   <h4 className="card-title">CogniSaas</h4>
@@ -36,7 +36,7 @@ function Recommended() {
                 <img
                   alt=".."
                   src="https://res.cloudinary.com/de5it79dw/image/upload/v1650476979/channels4_profile_1_up66zk.jpg"
-                  class="avatar-box avatar-mid"
+                  className="avatar-box avatar-mid"
                 />
                 <div className="flex-col">
                   <h4 className="card-title">TrakinTech</h4>
