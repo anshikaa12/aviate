@@ -9,5 +9,5 @@
 - hardcoded data
 
 ## Preview
+https://user-images.githubusercontent.com/65406794/187081334-ae54bafc-afb2-4e3b-b480-c83b9c420d81.mp4
 
-![alt text](/src/preview/bandicam%202022-08-28%2019-07-38-270.mp4)
